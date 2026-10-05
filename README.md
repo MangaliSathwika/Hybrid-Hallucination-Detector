@@ -129,8 +129,6 @@ Render will provision a free global HTTPS URL (e.g. `https://your-service.onrend
 ```text
 ├── index.html        # Clean, modern white Trust Center frontend UI
 ├── server.py         # Native Python HTTP server handling /api/evaluate and /health
-├── requirements.txt  # Cloud buildpack descriptor
-├── Procfile          # Process file for cloud deployments
 └── README.md         # Documentation
 ```
 
